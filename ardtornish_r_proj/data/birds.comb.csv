@@ -1,0 +1,273 @@
+"","survey_id","site","species","n","range","time","minutes","seconds","days.x","...10","...11","fid","id","weather","start_time","habitat","dom_veg","patch_id","elevation","days.y","sector","start_time_padded","start_time.dec","pres","days"
+"1","arienas_idk_1","arienas_idk_1","willow_warbler",1,NA,8.35,8,21,35,NA,NA,95,NA,"Drizzle, still, overcasr, mild",1905,"4","Vurcg, willow",NA,68,NA,"Rahoy","1905",19.0833333333333,1,35
+"2","arienas_idk_1","arienas_idk_1","sparrow_hawk",1,NA,14.1333333333333,14,8,35,NA,NA,95,NA,"Drizzle, still, overcasr, mild",1905,"4","Vurcg, willow",NA,68,NA,"Rahoy","1905",19.0833333333333,1,35
+"3","arienas_idk_2","arienas_idk_2","willow_warbler",1,NA,11.75,11,45,35,NA,NA,96,NA,"Overcast, mild, showers, breeze",2045,"4","Birch oak",NA,146,NA,"Rahoy","2045",20.75,1,35
+"4","arienas_idk_2","arienas_idk_2","great_tit",1,NA,23.3833333333333,23,23,35,NA,NA,96,NA,"Overcast, mild, showers, breeze",2045,"4","Birch oak",NA,146,NA,"Rahoy","2045",20.75,1,35
+"5","arienas_idk_2","arienas_idk_2","great_tit",1,NA,24.9833333333333,24,59,35,NA,NA,96,NA,"Overcast, mild, showers, breeze",2045,"4","Birch oak",NA,146,NA,"Rahoy","2045",20.75,1,35
+"6","arienas_idk_2","arienas_idk_2","redpoll",1,NA,8.76666666666667,8,46,35,NA,NA,96,NA,"Overcast, mild, showers, breeze",2045,"4","Birch oak",NA,146,NA,"Rahoy","2045",20.75,1,35
+"7","Arienas_south_1","Arienas_south_1","willow_warbler",1,22.2,1.26666666666667,1,16,34,NA,NA,94,NA,"Sun, breeze, warm",755,"5","Birch sp, blaeberry, bracken",NA,26,NA,"Rahoy","0755",7.91666666666667,1,34
+"8","Arienas_south_1","Arienas_south_1","willow_warbler",1,10.8,10.6333333333333,10,38,34,NA,NA,94,NA,"Sun, breeze, warm",755,"5","Birch sp, blaeberry, bracken",NA,26,NA,"Rahoy","0755",7.91666666666667,1,34
+"9","Arienas_south_4","Arienas_south_4","willow_warbler",1,28.5,10.8333333333333,10,50,34,NA,NA,91,NA,"Sun, breeze",610,"4","Birch, willow, oak",NA,26,NA,"Rahoy","0610",6.16666666666667,1,34
+"10","Arienas_south_4","Arienas_south_4","willow_warbler",1,28.5,10.8333333333333,10,50,34,NA,NA,92,NA,"Sun, breeze",610,"4","Birch, willow, oak",NA,26,NA,"Rahoy","0610",6.16666666666667,1,34
+"11","Arienas_south_5","Arienas_south_5","meadow_pipit",1,163.8,19.9,19,54,34,NA,NA,93,NA,"Sun, breeze, warm",645,"1","Molinia, ling, bog myrtle",NA,22,NA,"Rahoy","0645",6.75,1,34
+"12","Arienas_south_5","Arienas_south_5","skylark",2,NA,14.25,14,15,34,NA,NA,93,NA,"Sun, breeze, warm",645,"1","Molinia, ling, bog myrtle",NA,22,NA,"Rahoy","0645",6.75,1,34
+"13","Camas_gorm_6","Camas_gorm_6","wood_pigeon",2,NA,24.7,24,42,40,NA,NA,108,NA,"Clouds, mild, breeze",1245,"2","Ling, milinia, birch, bracken",NA,132,NA,"Inninmoore","1245",12.75,1,40
+"14","Camas_gorm_idk","Camas_gorm_idk","willow_warbler",2,33.3,1.35,1,21,40,NA,NA,109,NA,"Cloudy, warm, breeze",1341,"5","Oak, birch, alder",NA,124,NA,"Inninmoore","1341",13.6833333333333,1,40
+"15","Camas_gorm_idk","Camas_gorm_idk","coal_tit",1,21.8,2.43333333333333,2,26,40,NA,NA,109,NA,"Cloudy, warm, breeze",1341,"5","Oak, birch, alder",NA,124,NA,"Inninmoore","1341",13.6833333333333,1,40
+"16","Camas_gorm_idk","Camas_gorm_idk","tree_pipit",1,13.4,5.61666666666667,5,37,40,NA,NA,109,NA,"Cloudy, warm, breeze",1341,"5","Oak, birch, alder",NA,124,NA,"Inninmoore","1341",13.6833333333333,1,40
+"17","Camas_gorm_idk","Camas_gorm_idk","chaffinch",2,28.2,8.23333333333333,8,14,40,NA,NA,109,NA,"Cloudy, warm, breeze",1341,"5","Oak, birch, alder",NA,124,NA,"Inninmoore","1341",13.6833333333333,1,40
+"18","Camas_gorm_idk","Camas_gorm_idk","willow_warbler",1,41.4,25.9,25,54,40,NA,NA,109,NA,"Cloudy, warm, breeze",1341,"5","Oak, birch, alder",NA,124,NA,"Inninmoore","1341",13.6833333333333,1,40
+"19","Camas_gorm_idk2","Camas_gorm_idk2","willow_warbler",1,8,5.26666666666667,5,16,40,NA,NA,110,NA,"Overcast, mild, still",1430,"5","Iak, bracken  blaeberry",NA,101,NA,"Inninmoore","1430",14.5,1,40
+"20","Camas_gorm_idk2","Camas_gorm_idk2","willow_warbler",1,8,5.26666666666667,5,16,40,NA,NA,111,NA,"Overcast, mild, still",1430,"5","Iak, bracken  blaeberry",NA,101,NA,"Inninmoore","1430",14.5,1,40
+"21","Camas_gorm_idk2","Camas_gorm_idk2","great_spotted_woodpecker",1,22.8,18.1666666666667,18,10,40,NA,NA,110,NA,"Overcast, mild, still",1430,"5","Iak, bracken  blaeberry",NA,101,NA,"Inninmoore","1430",14.5,1,40
+"22","Camas_gorm_idk2","Camas_gorm_idk2","great_spotted_woodpecker",1,22.8,18.1666666666667,18,10,40,NA,NA,111,NA,"Overcast, mild, still",1430,"5","Iak, bracken  blaeberry",NA,101,NA,"Inninmoore","1430",14.5,1,40
+"23","Clounlaid_1","Clounlaid_1","willow_warbler",1,71.7,29.45,29,27,22,NA,NA,68,NA,"Overcast fog still",603,"3","Molinia, birch, ling",NA,186,NA,"Clounlaid","0603",6.05,1,22
+"24","Clounlaid_1","Clounlaid_1","meadow_pipit",2,63,15.4833333333333,15,29,22,NA,NA,68,NA,"Overcast fog still",603,"3","Molinia, birch, ling",NA,186,NA,"Clounlaid","0603",6.05,1,22
+"25","Clounlaid_1","Clounlaid_1","meadow_pipit",1,49.5,4.4,4,24,22,NA,NA,68,NA,"Overcast fog still",603,"3","Molinia, birch, ling",NA,186,NA,"Clounlaid","0603",6.05,1,22
+"26","Clounlaid_1","Clounlaid_1","meadow_pipit",1,25.6,2.16666666666667,2,10,22,NA,NA,68,NA,"Overcast fog still",603,"3","Molinia, birch, ling",NA,186,NA,"Clounlaid","0603",6.05,1,22
+"27","Clounlaid_2","Clounlaid_2","meadow_pipit",1,NA,3.28333333333333,3,17,22,NA,NA,69,NA,"Overcast, breeze",645,"3","Birch, molinia, ling",NA,180,NA,"Clounlaid","0645",6.75,1,22
+"28","Clounlaid_3","Clounlaid_3","willow_warbler",1,86.7,10.5,10,30,22,NA,NA,70,NA,"Cloudy, mild, still, dry",818,"3","Molinia, ling, birch",NA,199,NA,"Clounlaid","0818",8.3,1,22
+"29","Clounlaid_3","Clounlaid_3","willow_warbler",1,14.6,23.4166666666667,23,25,22,NA,NA,70,NA,"Cloudy, mild, still, dry",818,"3","Molinia, ling, birch",NA,199,NA,"Clounlaid","0818",8.3,1,22
+"30","Clounlaid_4","Clounlaid_4","meadow_pipit",1,55.8,22.4333333333333,22,26,22,NA,NA,74,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"31","Clounlaid_4","Clounlaid_4","meadow_pipit",1,55.8,22.4333333333333,22,26,22,NA,NA,71,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"32","Clounlaid_4","Clounlaid_4","meadow_pipit",1,55.8,22.4333333333333,22,26,22,NA,NA,72,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"33","Clounlaid_4","Clounlaid_4","willow_warbler",2,13,1.3,1,18,22,NA,NA,74,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"34","Clounlaid_4","Clounlaid_4","willow_warbler",2,13,1.3,1,18,22,NA,NA,71,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"35","Clounlaid_4","Clounlaid_4","willow_warbler",2,13,1.3,1,18,22,NA,NA,72,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"36","Clounlaid_4","Clounlaid_4","siskin",1,NA,20.6333333333333,20,38,22,NA,NA,74,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"37","Clounlaid_4","Clounlaid_4","siskin",1,NA,20.6333333333333,20,38,22,NA,NA,71,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"38","Clounlaid_4","Clounlaid_4","siskin",1,NA,20.6333333333333,20,38,22,NA,NA,72,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"39","Clounlaid_4","Clounlaid_4","meadow_pipit",1,59.3,4.63333333333333,4,38,22,NA,NA,74,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"40","Clounlaid_4","Clounlaid_4","meadow_pipit",1,59.3,4.63333333333333,4,38,22,NA,NA,71,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"41","Clounlaid_4","Clounlaid_4","meadow_pipit",1,59.3,4.63333333333333,4,38,22,NA,NA,72,NA,"Sun, breeze, clouds, warm",1921,"3","Molinia, ling, birch",NA,203,NA,"Clounlaid","1921",19.35,1,22
+"42","Clounlaid_5","Clounlaid_5","meadow_pipit",2,89.6,19.7666666666667,19,46,22,NA,NA,75,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"43","Clounlaid_5","Clounlaid_5","meadow_pipit",2,89.6,19.7666666666667,19,46,22,NA,NA,73,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"44","Clounlaid_5","Clounlaid_5","redpoll",1,NA,16.75,16,45,22,NA,NA,75,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"45","Clounlaid_5","Clounlaid_5","redpoll",1,NA,16.75,16,45,22,NA,NA,73,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"46","Clounlaid_5","Clounlaid_5","meadow_pipit",1,NA,7.81666666666667,7,49,22,NA,NA,75,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"47","Clounlaid_5","Clounlaid_5","meadow_pipit",1,NA,7.81666666666667,7,49,22,NA,NA,73,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"48","Clounlaid_5","Clounlaid_5","willow_warbler",1,44.5,14.9,14,54,22,NA,NA,75,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"49","Clounlaid_5","Clounlaid_5","willow_warbler",1,44.5,14.9,14,54,22,NA,NA,73,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"50","Clounlaid_5","Clounlaid_5","meadow_pipit",1,24.8,9.01666666666667,9,1,22,NA,NA,75,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"51","Clounlaid_5","Clounlaid_5","meadow_pipit",1,24.8,9.01666666666667,9,1,22,NA,NA,73,NA,"Overcast, wind",2005,"3","Molinia  ling, birch, rowan",NA,205,NA,"Clounlaid","2005",20.0833333333333,1,22
+"52","Open_16","Open_16","golden_plover",3,102.3,16.6,16,36,39,NA,NA,101,NA,"Clear, breeze",1931,"1","Molinia",NA,210,NA,"Tearnait","1931",19.5166666666667,1,39
+"53","Open_16","Open_16","skylark",1,99.8,2.35,2,21,39,NA,NA,101,NA,"Clear, breeze",1931,"1","Molinia",NA,210,NA,"Tearnait","1931",19.5166666666667,1,39
+"54","Open_16","Open_16","golden_plover",3,81.6,9.75,9,45,39,NA,NA,101,NA,"Clear, breeze",1931,"1","Molinia",NA,210,NA,"Tearnait","1931",19.5166666666667,1,39
+"55","Open_16","Open_16","hen_harrier",1,107.5,11.4,11,24,39,NA,NA,101,NA,"Clear, breeze",1931,"1","Molinia",NA,210,NA,"Tearnait","1931",19.5166666666667,1,39
+"56","Open_16","Open_16","skylark",1,79.4,1.05,1,3,39,NA,NA,101,NA,"Clear, breeze",1931,"1","Molinia",NA,210,NA,"Tearnait","1931",19.5166666666667,1,39
+"57","Open_16","Open_16","skylark",2,208,3,3,0,39,NA,NA,101,NA,"Clear, breeze",1931,"1","Molinia",NA,210,NA,"Tearnait","1931",19.5166666666667,1,39
+"58","Open_18","Open_18","meadow_pipit",1,48.7,9,9,0,1,NA,NA,7,NA,"Overcast, showery",735,"1","Milinia, some heath",NA,NA,NA,"Clounlaid","0735",7.58333333333333,1,1
+"59","Open_18","Open_18","skylark",1,39.4,29,29,0,1,NA,NA,7,NA,"Overcast, showery",735,"1","Milinia, some heath",NA,NA,NA,"Clounlaid","0735",7.58333333333333,1,1
+"60","Open_18","Open_18","skylark",2,117.3,12,12,0,1,NA,NA,7,NA,"Overcast, showery",735,"1","Milinia, some heath",NA,NA,NA,"Clounlaid","0735",7.58333333333333,1,1
+"61","Open_18","Open_18","meadow_pipit",2,324,3,3,0,1,NA,NA,7,NA,"Overcast, showery",735,"1","Milinia, some heath",NA,NA,NA,"Clounlaid","0735",7.58333333333333,1,1
+"62","Open_18","Open_18","meadow_pipit",2,13.3,20,20,0,1,NA,NA,7,NA,"Overcast, showery",735,"1","Milinia, some heath",NA,NA,NA,"Clounlaid","0735",7.58333333333333,1,1
+"63","Open_18","Open_18","skylark",1,67.5,8,8,0,1,NA,NA,7,NA,"Overcast, showery",735,"1","Milinia, some heath",NA,NA,NA,"Clounlaid","0735",7.58333333333333,1,1
+"64","Open_18_1","Open_18_1","skylark",2,NA,12,12,0,1,NA,NA,8,NA,"Gusty clear sky",853,"1","Deer grass molinia",NA,NA,NA,"Clounlaid","0853",8.88333333333333,1,1
+"65","Open_18_1","Open_18_1","skylark",1,5,4,4,0,1,NA,NA,8,NA,"Gusty clear sky",853,"1","Deer grass molinia",NA,NA,NA,"Clounlaid","0853",8.88333333333333,1,1
+"66","Open_18_1","Open_18_1","meadow_pipit",1,80.8,17,17,0,1,NA,NA,8,NA,"Gusty clear sky",853,"1","Deer grass molinia",NA,NA,NA,"Clounlaid","0853",8.88333333333333,1,1
+"68","Open_20","Open_20","skylark",1,47.4,7.53333333333333,7,32,9,NA,NA,31,NA,"Gusty, overcast, dry",1653,"1","Molinia, ling",NA,350,NA,"Clounlaid","1653",16.8833333333333,1,9
+"69","Open_20","Open_20","skylark",2,149.1,21.7166666666667,21,43,9,NA,NA,31,NA,"Gusty, overcast, dry",1653,"1","Molinia, ling",NA,350,NA,"Clounlaid","1653",16.8833333333333,1,9
+"70","Open_29","Open_29","meadow_pipit",1,116.7,16.5333333333333,16,32,29,NA,NA,90,NA,"Breeze,  sun, mild",1751,"1","Molinia",NA,121,NA,"Tearnait","1751",17.85,1,29
+"71","Open_29","Open_29","meadow_pipit",1,80.4,4.85,4,51,29,NA,NA,90,NA,"Breeze,  sun, mild",1751,"1","Molinia",NA,121,NA,"Tearnait","1751",17.85,1,29
+"72","Open_30","Open_30","skylark",1,113.3,14.1166666666667,14,7,29,NA,NA,88,NA,"Sun, gusts, mild",1436,"1","Molinia",NA,143,NA,"Tearnait","1436",14.6,1,29
+"73","Open_30","Open_30","meadow_pipit",1,165,20.2833333333333,20,17,29,NA,NA,88,NA,"Sun, gusts, mild",1436,"1","Molinia",NA,143,NA,"Tearnait","1436",14.6,1,29
+"74","Open_30","Open_30","meadow_pipit",1,177.9,4.2,4,12,29,NA,NA,88,NA,"Sun, gusts, mild",1436,"1","Molinia",NA,143,NA,"Tearnait","1436",14.6,1,29
+"75","Open_33","Open_33","golden_plover",1,486,5.35,5,21,16,NA,NA,55,NA,"Clear, wind, warm",700,"1","Molinua, deer rass,vgrey moss",NA,459,NA,"Clounlaid","0700",7,1,16
+"76","Open_33","Open_33","meadow_pipit",3,61.8,21.15,21,9,16,NA,NA,55,NA,"Clear, wind, warm",700,"1","Molinua, deer rass,vgrey moss",NA,459,NA,"Clounlaid","0700",7,1,16
+"77","Open_33","Open_33","meadow_pipit",2,558,9.05,9,3,16,NA,NA,55,NA,"Clear, wind, warm",700,"1","Molinua, deer rass,vgrey moss",NA,459,NA,"Clounlaid","0700",7,1,16
+"78","Open_49","Open_49","skylark",1,54.9,25.7666666666667,25,46,9,NA,NA,30,NA,"Windy, sun, clouds",1513,"1","Deer grass, mosss, molinia, bell heather",NA,356,NA,"Clounlaid","1513",15.2166666666667,1,9
+"79","Open_58","Open_58","greenshank",1,89.5,0.483333333333333,0,29,39,NA,NA,100,NA,"Clear, breeze, warm",1842,"1","Molinia",NA,204,NA,"Tearnait","1842",18.7,1,39
+"80","Open_58","Open_58","meadow_pipit",1,NA,7.63333333333333,7,38,39,NA,NA,100,NA,"Clear, breeze, warm",1842,"1","Molinia",NA,204,NA,"Tearnait","1842",18.7,1,39
+"81","Open_58","Open_58","skylark",2,62.6,25.05,25,3,39,NA,NA,100,NA,"Clear, breeze, warm",1842,"1","Molinia",NA,204,NA,"Tearnait","1842",18.7,1,39
+"82","Open_60","Open_60","skylark",2,383,26.0666666666667,26,4,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"83","Open_60","Open_60","skylark",1,58.2,25.4,25,24,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"84","Open_60","Open_60","sparrow_hawk",1,2,18.85,18,51,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"85","Open_60","Open_60","skylark",1,NA,3.25,3,15,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"86","Open_60","Open_60","skylark",1,48.5,29.2333333333333,29,14,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"88","Open_60","Open_60","meadow_pipit",2,54.5,0.733333333333333,0,44,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"89","Open_60","Open_60","meadow_pipit",1,74.7,27.8,27,48,9,NA,NA,33,NA,"Sun, wind, mild",2038,"1","Molinia, ling, deer grass",NA,309,NA,"Clounlaid","2038",20.6333333333333,1,9
+"91","Open_62","Open_62","meadow_pipit",3,7.5,14.15,14,9,6,NA,NA,23,NA,"Sun, breeze, mild",1814,"1","Ling, moliona, deer grass",NA,NA,NA,"Rahoy","1814",18.2333333333333,1,6
+"92","Open_62","Open_62","meadow_pipit",3,7.5,14.15,14,9,6,NA,NA,89,NA,"Gusts, sun,mild",1626,"1","Molinia, ling",NA,235,NA,"Tearnait","1626",16.4333333333333,1,6
+"93","Open_62","Open_62","skylark",1,NA,25.6333333333333,25,38,6,NA,NA,23,NA,"Sun, breeze, mild",1814,"1","Ling, moliona, deer grass",NA,NA,NA,"Rahoy","1814",18.2333333333333,1,6
+"94","Open_62","Open_62","skylark",1,NA,25.6333333333333,25,38,6,NA,NA,89,NA,"Gusts, sun,mild",1626,"1","Molinia, ling",NA,235,NA,"Tearnait","1626",16.4333333333333,1,6
+"95","Open_67","Open_67","meadow_pipit",1,109.2,20.5,20,30,6,NA,NA,21,NA,"Clear sky, windy, chilly",1428,"1","Molinia, ling, deer grass",NA,NA,NA,"Rahoy","1428",14.4666666666667,1,6
+"96","Open_67","Open_67","raven",2,1208,10.3333333333333,10,20,6,NA,NA,21,NA,"Clear sky, windy, chilly",1428,"1","Molinia, ling, deer grass",NA,NA,NA,"Rahoy","1428",14.4666666666667,1,6
+"97","Open_67","Open_67","meadow_pipit",2,37.6,5.06666666666667,5,4,6,NA,NA,21,NA,"Clear sky, windy, chilly",1428,"1","Molinia, ling, deer grass",NA,NA,NA,"Rahoy","1428",14.4666666666667,1,6
+"100","Open_80","Open_80","skylark",1,117.7,8.31666666666667,8,19,7,NA,NA,28,NA,"Windy, overcast, mild",1849,"2","Ling, molinia, deer grass, some rowan regen",NA,NA,NA,"Rahoy","1849",18.8166666666667,1,7
+"101","Open_80","Open_80","grey_wagtail",1,6.5,2.95,2,57,7,NA,NA,28,NA,"Windy, overcast, mild",1849,"2","Ling, molinia, deer grass, some rowan regen",NA,NA,NA,"Rahoy","1849",18.8166666666667,1,7
+"102","Open_80","Open_80","skylark",2,46.1,22.3,22,18,7,NA,NA,28,NA,"Windy, overcast, mild",1849,"2","Ling, molinia, deer grass, some rowan regen",NA,NA,NA,"Rahoy","1849",18.8166666666667,1,7
+"103","Open_80","Open_80","skylark",1,161,19.1833333333333,19,11,7,NA,NA,28,NA,"Windy, overcast, mild",1849,"2","Ling, molinia, deer grass, some rowan regen",NA,NA,NA,"Rahoy","1849",18.8166666666667,1,7
+"104","Open_82","Open_82","meadow_pipit",1,26.9,25,25,0,1,NA,NA,10,NA,"Sun, showers, windy, chilly",1850,"1","Nolinia",NA,NA,NA,"Clounlaid","1850",18.8333333333333,1,1
+"105","Open_82","Open_82","skylark",1,16,3,3,0,1,NA,NA,10,NA,"Sun, showers, windy, chilly",1850,"1","Nolinia",NA,NA,NA,"Clounlaid","1850",18.8333333333333,1,1
+"106","Open_82","Open_82","skylark",1,25,3,3,0,1,NA,NA,10,NA,"Sun, showers, windy, chilly",1850,"1","Nolinia",NA,NA,NA,"Clounlaid","1850",18.8333333333333,1,1
+"107","Open_82","Open_82","skylark",1,13.3,18,18,0,1,NA,NA,10,NA,"Sun, showers, windy, chilly",1850,"1","Nolinia",NA,NA,NA,"Clounlaid","1850",18.8333333333333,1,1
+"109","Open_82","Open_82","meadow_pipit",1,102.8,8,8,0,1,NA,NA,10,NA,"Sun, showers, windy, chilly",1850,"1","Nolinia",NA,NA,NA,"Clounlaid","1850",18.8333333333333,1,1
+"111","Open_82","Open_82","skylark",1,19.8,6,6,0,1,NA,NA,10,NA,"Sun, showers, windy, chilly",1850,"1","Nolinia",NA,NA,NA,"Clounlaid","1850",18.8333333333333,1,1
+"112","Open_9","Open_9","skylark",2,40.5,3.65,3,39,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"113","Open_9","Open_9","meadow_pipit",1,25.5,2.66666666666667,2,40,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"114","Open_9","Open_9","skylark",1,94.4,1.58333333333333,1,35,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"115","Open_9","Open_9","meadow_pipit",2,199.5,21.2333333333333,21,14,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"116","Open_9","Open_9","meadow_pipit",2,40.8,24.9166666666667,24,55,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"117","Open_9","Open_9","meadow_pipit",1,NA,14.3666666666667,14,22,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"118","Open_9","Open_9","skylark",1,NA,27.1166666666667,26,67,16,NA,NA,54,NA,"Clear, breezy, mild",607,"1","Blaeberry, ling, molinia, deer grass",NA,452,NA,"Clounlaid","0607",6.11666666666667,1,16
+"120","Regen_0","Regen_0","blue_tit",1,NA,17.5166666666667,17,31,12,NA,NA,36,NA,"Overcast, mild, breeze",551,"3","Ling, big myrtle, birch regen",NA,45,NA,"Rahoy","0551",5.85,1,12
+"122","Regen_12","Regen_12","meadow_pipit",1,154,24.7333333333333,24,44,15,NA,NA,50,NA,"Clear, breeze, hot",1834,"1","Molinia, ling",NA,745,NA,"Clounlaid","1834",18.5666666666667,1,15
+"123","Regen_12","Regen_12","meadow_pipit",1,140.7,8.2,8,12,15,NA,NA,50,NA,"Clear, breeze, hot",1834,"1","Molinia, ling",NA,745,NA,"Clounlaid","1834",18.5666666666667,1,15
+"124","Regen_12","Regen_12","stonechat",1,45.9,19.4,19,24,15,NA,NA,50,NA,"Clear, breeze, hot",1834,"1","Molinia, ling",NA,745,NA,"Clounlaid","1834",18.5666666666667,1,15
+"125","Regen_18","Regen_18","willow_warbler",1,75.3,23.1666666666667,23,10,16,NA,NA,58,NA,"Sun, still, hot",1918,"4","Birch, molinia",NA,154,NA,"Rahoy","1918",19.3,1,16
+"126","Regen_18","Regen_18","willow_warbler",1,15.5,20.55,20,33,16,NA,NA,58,NA,"Sun, still, hot",1918,"4","Birch, molinia",NA,154,NA,"Rahoy","1918",19.3,1,16
+"127","Regen_19","Regen_19","raven",1,212,6.3,6,18,15,NA,NA,49,NA,"Clear sky, hot, breeze",1728,"1","Molini, ling",NA,64,NA,"Clounlaid","1728",17.4666666666667,1,15
+"128","Regen_19","Regen_19","buzzard",1,194.3,14.7166666666667,14,43,15,NA,NA,49,NA,"Clear sky, hot, breeze",1728,"1","Molini, ling",NA,64,NA,"Clounlaid","1728",17.4666666666667,1,15
+"129","Regen_2","Regen_2","greylag",2,245,26.8166666666667,26,49,15,NA,NA,47,NA,"Sun, clouds, mild, breeze",700,"3","Molinia, ling, birch, oak, rowan",NA,163,NA,"Clounlaid","0700",7,1,15
+"130","Regen_2","Regen_2","greylag",2,59.3,1.11666666666667,1,7,15,NA,NA,47,NA,"Sun, clouds, mild, breeze",700,"3","Molinia, ling, birch, oak, rowan",NA,163,NA,"Clounlaid","0700",7,1,15
+"131","Regen_21","Regen_21","sand_martin",1,85,5.13333333333333,5,8,11,NA,NA,34,NA,"Overcast, drizzle, mild",609,"3","Meliniea, bog myrtle, birch  rowan, heather",NA,106,NA,"Clounlaid","0609",6.15,1,11
+"132","Regen_21","Regen_21","sand_martin",2,88.9,6.4,6,24,11,NA,NA,34,NA,"Overcast, drizzle, mild",609,"3","Meliniea, bog myrtle, birch  rowan, heather",NA,106,NA,"Clounlaid","0609",6.15,1,11
+"134","Regen_21","Regen_21","sand_martin",4,NA,15.1166666666667,15,7,11,NA,NA,34,NA,"Overcast, drizzle, mild",609,"3","Meliniea, bog myrtle, birch  rowan, heather",NA,106,NA,"Clounlaid","0609",6.15,1,11
+"135","Regen_21","Regen_21","grasshopper_warbler",1,68.6,5.55,5,33,11,NA,NA,34,NA,"Overcast, drizzle, mild",609,"3","Meliniea, bog myrtle, birch  rowan, heather",NA,106,NA,"Clounlaid","0609",6.15,1,11
+"136","Regen_21","Regen_21","wood_pigeon",1,NA,23,23,0,11,NA,NA,34,NA,"Overcast, drizzle, mild",609,"3","Meliniea, bog myrtle, birch  rowan, heather",NA,106,NA,"Clounlaid","0609",6.15,1,11
+"137","Regen_21","Regen_21","cuckoo",1,325,11.8666666666667,11,52,11,NA,NA,34,NA,"Overcast, drizzle, mild",609,"3","Meliniea, bog myrtle, birch  rowan, heather",NA,106,NA,"Clounlaid","0609",6.15,1,11
+"139","Regen_22","Regen_22","raven",1,189.2,24,24,0,4,NA,NA,16,NA,"Sun, wind, chillu",850,"2","Moliia, ling, bog myryle",NA,NA,NA,"Rahoy","0850",8.83333333333333,1,4
+"140","Regen_22","Regen_22","cuckoo",1,119.8,16,16,0,4,NA,NA,16,NA,"Sun, wind, chillu",850,"2","Moliia, ling, bog myryle",NA,NA,NA,"Rahoy","0850",8.83333333333333,1,4
+"141","Regen_22","Regen_22","meadow_pipit",1,38.4,10,10,0,4,NA,NA,16,NA,"Sun, wind, chillu",850,"2","Moliia, ling, bog myryle",NA,NA,NA,"Rahoy","0850",8.83333333333333,1,4
+"142","Regen_22","Regen_22","skylark",1,48.5,0,0,0,4,NA,NA,16,NA,"Sun, wind, chillu",850,"2","Moliia, ling, bog myryle",NA,NA,NA,"Rahoy","0850",8.83333333333333,1,4
+"143","Regen_22","Regen_22","raven",1,116,24,24,0,4,NA,NA,16,NA,"Sun, wind, chillu",850,"2","Moliia, ling, bog myryle",NA,NA,NA,"Rahoy","0850",8.83333333333333,1,4
+"145","Regen_24","Regen_24","willow_warbler",1,18.1,21,21,0,4,NA,NA,20,NA,"Sun, cloudy, windy, spitting rain",1615,"4","Burch, molinia",NA,NA,NA,"Claggan","1615",16.25,1,4
+"146","Regen_24","Regen_24","willow_warbler",1,17.3,0,0,0,4,NA,NA,20,NA,"Sun, cloudy, windy, spitting rain",1615,"4","Burch, molinia",NA,NA,NA,"Claggan","1615",16.25,1,4
+"147","Regen_24","Regen_24","blue_tit",1,21.3,8,8,0,4,NA,NA,20,NA,"Sun, cloudy, windy, spitting rain",1615,"4","Burch, molinia",NA,NA,NA,"Claggan","1615",16.25,1,4
+"150","Regen_26","Regen_26","great_tit",2,5.5,5.16666666666667,5,10,14,NA,NA,41,NA,"Overcast, mild, still",806,"5","Oak, blaeberry, feather moss",NA,66,NA,"Claggan","0806",8.1,1,14
+"152","Regen_36","Regen_36","hooded_crow",1,36.9,3,3,0,4,NA,NA,14,NA,"Sun, gusts",655,"2","Ling  molinia, bog myrtle, vcotton grass",NA,NA,NA,"Rahoy","0655",6.91666666666667,1,4
+"153","Regen_36","Regen_36","hooded_crow",1,58,0,0,0,4,NA,NA,14,NA,"Sun, gusts",655,"2","Ling  molinia, bog myrtle, vcotton grass",NA,NA,NA,"Rahoy","0655",6.91666666666667,1,4
+"155","Regen_4","Regen_4","skylark",1,80.2,6.95,6,57,9,NA,NA,32,NA,"Windy, patchy clouds, dry",1818,"3","Birch, bluebell, bracken, molinia",NA,206,NA,"Clounlaid","1818",18.3,1,9
+"159","Regen_49","Regen_49","wren",1,19.5,0.966666666666667,0,58,15,NA,NA,45,NA,"Overcast, still mold",527,"3","Birch, rowan, bracken, bluebel, ling, molinia",NA,113,NA,"Clounlaid","0527",5.45,1,15
+"160","Regen_49","Regen_49","meadow_pipit",1,93,18.55,18,33,15,NA,NA,45,NA,"Overcast, still mold",527,"3","Birch, rowan, bracken, bluebel, ling, molinia",NA,113,NA,"Clounlaid","0527",5.45,1,15
+"161","Regen_49","Regen_49","stonechat",2,67.5,16.2333333333333,16,14,15,NA,NA,45,NA,"Overcast, still mold",527,"3","Birch, rowan, bracken, bluebel, ling, molinia",NA,113,NA,"Clounlaid","0527",5.45,1,15
+"162","Regen_5","Regen_5","redpoll",1,NA,2.23333333333333,2,14,12,NA,NA,37,NA,"Overcast, mild, breeze",657,"2","Ling, molinia, bog myrtle, scattered willow and birch",NA,40,NA,"Rahoy","0657",6.95,1,12
+"163","Regen_5","Regen_5","sand_martin",2,55.3,11.25,11,15,12,NA,NA,37,NA,"Overcast, mild, breeze",657,"2","Ling, molinia, bog myrtle, scattered willow and birch",NA,40,NA,"Rahoy","0657",6.95,1,12
+"164","Regen_5_1","Regen_5_1","skylark",2,NA,19.4166666666667,19,25,15,NA,NA,48,NA,"Sunny, clear, hot",1559,"1","Molinia, ling, bog myrtle",NA,49,NA,"Clounlaid","1559",15.9833333333333,1,15
+"165","Regen_5_1","Regen_5_1","sand_martin",1,4.4,24.3333333333333,24,20,15,NA,NA,48,NA,"Sunny, clear, hot",1559,"1","Molinia, ling, bog myrtle",NA,49,NA,"Clounlaid","1559",15.9833333333333,1,15
+"166","Regen_5_1","Regen_5_1","cuckoo",2,37.5,2.53333333333333,2,32,15,NA,NA,48,NA,"Sunny, clear, hot",1559,"1","Molinia, ling, bog myrtle",NA,49,NA,"Clounlaid","1559",15.9833333333333,1,15
+"167","Regen_5_1","Regen_5_1","sand_martin",2,NA,18.9333333333333,18,56,15,NA,NA,48,NA,"Sunny, clear, hot",1559,"1","Molinia, ling, bog myrtle",NA,49,NA,"Clounlaid","1559",15.9833333333333,1,15
+"168","Regen_5_1","Regen_5_1","sand_martin",1,15.5,3.98333333333333,3,59,15,NA,NA,48,NA,"Sunny, clear, hot",1559,"1","Molinia, ling, bog myrtle",NA,49,NA,"Clounlaid","1559",15.9833333333333,1,15
+"169","Regen_5_1","Regen_5_1","meadow_pipit",2,37.5,2.53333333333333,2,32,15,NA,NA,48,NA,"Sunny, clear, hot",1559,"1","Molinia, ling, bog myrtle",NA,49,NA,"Clounlaid","1559",15.9833333333333,1,15
+"170","Regen_56","Regen_56","skylark",1,86.8,18,18,0,1,NA,NA,9,NA,"Sun, gusts",1720,"3","Birch, alder, molinia, ling",NA,NA,NA,"Clounlaid","1720",17.3333333333333,1,1
+"171","Regen_56","Regen_56","skylark",1,32.5,5,5,0,1,NA,NA,9,NA,"Sun, gusts",1720,"3","Birch, alder, molinia, ling",NA,NA,NA,"Clounlaid","1720",17.3333333333333,1,1
+"172","Regen_57","Regen_57","sand_martin",1,61.3,14.4666666666667,14,28,15,NA,NA,52,NA,"Breeze, clear sky, sunny, mild",2057,"3","Ling, molinia, birch, rowan, scots pine",NA,86,NA,"Clounlaid","2057",20.95,1,15
+"173","Regen_57","Regen_57","stonechat",1,76.6,7.65,7,39,15,NA,NA,52,NA,"Breeze, clear sky, sunny, mild",2057,"3","Ling, molinia, birch, rowan, scots pine",NA,86,NA,"Clounlaid","2057",20.95,1,15
+"174","Regen_59","Regen_59","redpoll",1,NA,19.15,19,9,23,NA,NA,78,NA,"Wind, ovrrcast, cold",712,"3","Burch, molinia, rowan, ling, bracken",NA,136,NA,"Tearnait","0712",7.2,1,23
+"175","Regen_59","Regen_59","redpoll",1,NA,19.15,19,9,23,NA,NA,77,NA,"Wind, overcast",712,"3","Rowan, birch, ling, molinia, bleaberry, bracken",NA,135,NA,"Tearnait","0712",7.2,1,23
+"176","Regen_59","Regen_59","willow_warbler",1,15.2,20.5833333333333,20,35,23,NA,NA,78,NA,"Wind, ovrrcast, cold",712,"3","Burch, molinia, rowan, ling, bracken",NA,136,NA,"Tearnait","0712",7.2,1,23
+"177","Regen_59","Regen_59","willow_warbler",1,15.2,20.5833333333333,20,35,23,NA,NA,77,NA,"Wind, overcast",712,"3","Rowan, birch, ling, molinia, bleaberry, bracken",NA,135,NA,"Tearnait","0712",7.2,1,23
+"178","Regen_6","Regen_6","chaffinch",1,15.9,20.25,20,15,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"180","Regen_6","Regen_6","redpoll",1,11.8,17.8,17,48,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"181","Regen_6","Regen_6","chaffinch",1,11.4,7.85,7,51,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"182","Regen_6","Regen_6","willow_warbler",1,18.2,27.3333333333333,27,20,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"183","Regen_6","Regen_6","cuckoo",1,11.4,7.85,7,51,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"184","Regen_6","Regen_6","redpoll",1,22.6,26.3166666666667,26,19,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"185","Regen_6","Regen_6","redstart",1,21.4,29.5666666666667,29,34,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"186","Regen_6","Regen_6","siskin",2,NA,6.15,6,9,12,NA,NA,38,NA,"Overcast, mild, breeze",757,"5","Oak, noss, wood srrel, bluebell, ",NA,53,NA,"Rahoy","0757",7.95,1,12
+"188","Regen_6_1","Regen_6_1","redpoll",1,NA,15.8,15,48,16,NA,NA,61,NA,"Dusk, sun, still, warm",2104,"4","Birch, molinia",NA,124,NA,"Rahoy","2104",21.0666666666667,1,16
+"189","Regen_6_1","Regen_6_1","redpoll",1,NA,27.1166666666667,27,7,16,NA,NA,61,NA,"Dusk, sun, still, warm",2104,"4","Birch, molinia",NA,124,NA,"Rahoy","2104",21.0666666666667,1,16
+"190","Regen_64","Regen_64","blue_tit",1,7.6,17.4166666666667,17,25,14,NA,NA,44,NA,"Overcast, still, mild",2029,"5","Oak, birch, alder, bracken, bluebell, feather moss",NA,61,NA,"Claggan","2029",20.4833333333333,1,14
+"191","Regen_64","Regen_64","robin",1,24,10.1166666666667,10,7,14,NA,NA,44,NA,"Overcast, still, mild",2029,"5","Oak, birch, alder, bracken, bluebell, feather moss",NA,61,NA,"Claggan","2029",20.4833333333333,1,14
+"192","Regen_64","Regen_64","chaffinch",1,6.5,7.73333333333333,7,44,14,NA,NA,44,NA,"Overcast, still, mild",2029,"5","Oak, birch, alder, bracken, bluebell, feather moss",NA,61,NA,"Claggan","2029",20.4833333333333,1,14
+"193","Regen_65","Regen_65","cuckoo",1,79.5,29.6,29,36,15,NA,NA,46,NA,"Overcast,still, mild",622,"3","Molinia, ling, scots pine, birch, rowan",NA,164,NA,"Clounlaid","0622",6.36666666666667,1,15
+"194","Regen_65","Regen_65","meadow_pipit",1,7.9,18.9666666666667,18,58,15,NA,NA,46,NA,"Overcast,still, mild",622,"3","Molinia, ling, scots pine, birch, rowan",NA,164,NA,"Clounlaid","0622",6.36666666666667,1,15
+"195","Regen_68","Regen_68","sand_martin",1,NA,24.9333333333333,24,56,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"197","Regen_68","Regen_68","willow_warbler",1,47.2,8.66666666666667,8,40,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"198","Regen_68","Regen_68","sand_martin",2,NA,27.4166666666667,27,25,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"199","Regen_68","Regen_68","willow_warbler",1,33.4,29.5,29,30,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"200","Regen_68","Regen_68","sand_martin",1,27.5,7.01666666666667,7,1,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"201","Regen_68","Regen_68","stonechat",1,80.6,6.85,6,51,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"202","Regen_68","Regen_68","sand_martin",2,56.4,26.4,26,24,11,NA,NA,35,NA,"Overcast, mild, still",726,"3","Birch, molinia, bog mytrle, ling, rowan",NA,76,NA,"Clounlaid","0726",7.43333333333333,1,11
+"203","Regen_69","Regen_69","cuckoo",2,122.6,7.11666666666667,7,7,16,NA,NA,60,NA,"Sun, hot, still",2013,"3","Ling, vurch  molinia",NA,152,NA,"Rahoy","2013",20.2166666666667,1,16
+"204","Regen_69","Regen_69","cuckoo",2,122.6,7.11666666666667,7,7,16,NA,NA,59,NA,"Sun, hot, still",2013,"3","Ling, vurch  molinia",NA,152,NA,"Rahoy","2013",20.2166666666667,1,16
+"205","Regen_69","Regen_69","willow_warbler",1,24.1,23.9333333333333,23,56,16,NA,NA,60,NA,"Sun, hot, still",2013,"3","Ling, vurch  molinia",NA,152,NA,"Rahoy","2013",20.2166666666667,1,16
+"206","Regen_69","Regen_69","willow_warbler",1,24.1,23.9333333333333,23,56,16,NA,NA,59,NA,"Sun, hot, still",2013,"3","Ling, vurch  molinia",NA,152,NA,"Rahoy","2013",20.2166666666667,1,16
+"207","Regen_69","Regen_69","meadow_pipit",1,122.6,7.11666666666667,7,7,16,NA,NA,60,NA,"Sun, hot, still",2013,"3","Ling, vurch  molinia",NA,152,NA,"Rahoy","2013",20.2166666666667,1,16
+"208","Regen_69","Regen_69","meadow_pipit",1,122.6,7.11666666666667,7,7,16,NA,NA,59,NA,"Sun, hot, still",2013,"3","Ling, vurch  molinia",NA,152,NA,"Rahoy","2013",20.2166666666667,1,16
+"209","Regen_71","Regen_71","meadow_pipit",2,NA,10.1833333333333,10,11,15,NA,NA,51,NA,"Sunny, clear, hot, breeze",1938,"1","Molinia ling  cotton grass",NA,182,NA,"Clounlaid","1938",19.6333333333333,1,15
+"210","Regen_71","Regen_71","skylark",1,5,24.7833333333333,24,47,15,NA,NA,51,NA,"Sunny, clear, hot, breeze",1938,"1","Molinia ling  cotton grass",NA,182,NA,"Clounlaid","1938",19.6333333333333,1,15
+"211","Regen_71","Regen_71","meadow_pipit",1,NA,7.76666666666667,7,46,15,NA,NA,51,NA,"Sunny, clear, hot, breeze",1938,"1","Molinia ling  cotton grass",NA,182,NA,"Clounlaid","1938",19.6333333333333,1,15
+"212","Regen_84","Regen_84","cuckoo",1,51,1.43333333333333,1,26,14,NA,NA,39,NA,"Cloudy, mild, breeze",633,"2","Ling, molinia,",NA,97,NA,"Claggan","0633",6.55,1,14
+"213","Regen_84","Regen_84","meadow_pipit",1,51,1.43333333333333,1,26,14,NA,NA,39,NA,"Cloudy, mild, breeze",633,"2","Ling, molinia,",NA,97,NA,"Claggan","0633",6.55,1,14
+"214","Tearnaitwest_18","Tearnaitwest_18","meadow_pipit",1,NA,18,18,0,24,NA,NA,86,NA,"Drizzle, cloudy, breeze",1415,"3","Birch  oak, ling, rowan, molinia, willow",NA,224,NA,"Tearnait","1415",14.25,1,24
+"215","Tearnaitwest_18","Tearnaitwest_18","skylark",1,NA,20.6666666666667,20,40,24,NA,NA,86,NA,"Drizzle, cloudy, breeze",1415,"3","Birch  oak, ling, rowan, molinia, willow",NA,224,NA,"Tearnait","1415",14.25,1,24
+"216","Tearnaitwest_18","Tearnaitwest_18","willow_warbler",1,NA,11.0833333333333,11,5,24,NA,NA,86,NA,"Drizzle, cloudy, breeze",1415,"3","Birch  oak, ling, rowan, molinia, willow",NA,224,NA,"Tearnait","1415",14.25,1,24
+"217","Tearnaitwest_5","Tearnaitwest_5","skylark",1,NA,19.0166666666667,19,1,24,NA,NA,84,NA,"Cloudy  br3ezy, warm",1248,"2","Molinia, ling, bracken, bluebell, rowan, birch",NA,271,NA,"Tearnait","1248",12.8,1,24
+"218","Tearnaitwest_5","Tearnaitwest_5","skylark",1,29.6,8.25,8,15,24,NA,NA,84,NA,"Cloudy  br3ezy, warm",1248,"2","Molinia, ling, bracken, bluebell, rowan, birch",NA,271,NA,"Tearnait","1248",12.8,1,24
+"219","Tearnaitwest_5","Tearnaitwest_5","meadow_pipit",1,12.6,0.933333333333333,0,56,24,NA,NA,84,NA,"Cloudy  br3ezy, warm",1248,"2","Molinia, ling, bracken, bluebell, rowan, birch",NA,271,NA,"Tearnait","1248",12.8,1,24
+"220","Woodland_11","Woodland_11","blue_tit",1,39.8,10,10,0,3,NA,NA,12,NA,"Patchy clouds, chilly, gusty",810,"5","Ash birch oak",NA,NA,NA,"Rahoy","0810",8.16666666666667,1,3
+"222","Woodland_11","Woodland_11","blue_tit",2,37.8,13,13,0,3,NA,NA,12,NA,"Patchy clouds, chilly, gusty",810,"5","Ash birch oak",NA,NA,NA,"Rahoy","0810",8.16666666666667,1,3
+"223","Woodland_11","Woodland_11","chaffinch",1,39.8,10,10,0,3,NA,NA,12,NA,"Patchy clouds, chilly, gusty",810,"5","Ash birch oak",NA,NA,NA,"Rahoy","0810",8.16666666666667,1,3
+"224","Woodland_11","Woodland_11","blue_tit",1,35.5,8,8,0,3,NA,NA,12,NA,"Patchy clouds, chilly, gusty",810,"5","Ash birch oak",NA,NA,NA,"Rahoy","0810",8.16666666666667,1,3
+"225","Woodland_14","Woodland_14","chaffinch",1,23.3,16,16,0,1,NA,NA,4,2,"Breezy, sunny",630,"5","Oak",NA,NA,NA,"Claggan","0630",6.5,1,1
+"226","Woodland_2","Woodland_2","buzzard",1,75.7,23,23,0,3,NA,NA,11,NA,"Cloudy, sun",645,"5","Oak , irch, alfer",NA,NA,NA,"Rahoy","0645",6.75,1,3
+"227","Woodland_2","Woodland_2","redpoll",1,71.1,11,11,0,3,NA,NA,11,NA,"Cloudy, sun",645,"5","Oak , irch, alfer",NA,NA,NA,"Rahoy","0645",6.75,1,3
+"230","Woodland_22","Woodland_22","wood_pigeon",1,36.2,2,2,0,4,NA,NA,18,NA,"Dry, sun, windy",1300,"5","Oak, vlue bell, feayher moss, molinia",NA,NA,NA,"Claggan","1300",13,1,4
+"231","Woodland_22","Woodland_22","wood_pigeon",1,18.3,17,17,0,4,NA,NA,18,NA,"Dry, sun, windy",1300,"5","Oak, vlue bell, feayher moss, molinia",NA,NA,NA,"Claggan","1300",13,1,4
+"232","Woodland_22","Woodland_22","wood_pigeon",1,28,12,12,0,4,NA,NA,18,NA,"Dry, sun, windy",1300,"5","Oak, vlue bell, feayher moss, molinia",NA,NA,NA,"Claggan","1300",13,1,4
+"234","Woodland_22","Woodland_22","siskin",2,19.2,21,21,0,4,NA,NA,18,NA,"Dry, sun, windy",1300,"5","Oak, vlue bell, feayher moss, molinia",NA,NA,NA,"Claggan","1300",13,1,4
+"235","Woodland_40","Woodland_40","great_spotted_woodpecker",1,38.6,22.5666666666667,22,34,16,NA,NA,56,NA,"Hot, clear, breeze",1643,"5","Oak, bracken, ",NA,49,NA,"Rahoy","1643",16.7166666666667,1,16
+"236","Woodland_40","Woodland_40","robin",1,16.5,27.9333333333333,27,56,16,NA,NA,56,NA,"Hot, clear, breeze",1643,"5","Oak, bracken, ",NA,49,NA,"Rahoy","1643",16.7166666666667,1,16
+"237","Woodland_40","Woodland_40","siskin",1,NA,11.1666666666667,11,10,16,NA,NA,56,NA,"Hot, clear, breeze",1643,"5","Oak, bracken, ",NA,49,NA,"Rahoy","1643",16.7166666666667,1,16
+"238","Woodland_40","Woodland_40","great_spotted_woodpecker",1,19.7,15.4333333333333,15,26,16,NA,NA,56,NA,"Hot, clear, breeze",1643,"5","Oak, bracken, ",NA,49,NA,"Rahoy","1643",16.7166666666667,1,16
+"239","Woodland_40","Woodland_40","tree_pipit",1,57.7,2.98333333333333,2,59,16,NA,NA,56,NA,"Hot, clear, breeze",1643,"5","Oak, bracken, ",NA,49,NA,"Rahoy","1643",16.7166666666667,1,16
+"240","Woodland_49","Woodland_49","common_redstart",1,27.8,2.21666666666667,2,13,7,NA,NA,25,NA,"Misty, cold, dewy",1621,"5","Oak, bracken, bkuebell",NA,NA,NA,"Rahoy","1621",16.35,1,7
+"242","Woodland_54","Woodland_54","white_throat",1,13.1,22,22,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"243","Woodland_54","Woodland_54","dunnock",1,26.6,22,22,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"244","Woodland_54","Woodland_54","eurasian_jay",1,52.1,29,29,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"245","Woodland_54","Woodland_54","chaffinch",1,18.9,8,8,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"246","Woodland_54","Woodland_54","robin",1,19.6,19,19,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"248","Woodland_54","Woodland_54","chaffinch",2,26.3,12,12,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"249","Woodland_54","Woodland_54","willow_warbler",2,46170,1,1,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"250","Woodland_54","Woodland_54","willow_warbler",1,17.1,0,0,0,1,NA,NA,24,NA,"Sun, light breeze",1955,"5","Oak, scots pine, blue bell, feather koss",NA,NA,NA,"Rahoy","1955",19.9166666666667,1,1
+"253","Woodland_58","Woodland_58","great_tit",2,12.1,11.2833333333333,11,17,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"254","Woodland_58","Woodland_58","great_tit",1,14,26.0833333333333,26,5,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"255","Woodland_58","Woodland_58","mistle_thrush",1,14.2,10.5,10,30,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"256","Woodland_58","Woodland_58","chaffinch",1,13.6,12.65,12,39,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"257","Woodland_58","Woodland_58","great_tit",1,11.5,17.6833333333333,17,41,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"258","Woodland_58","Woodland_58","great_tit",2,22.2,8.26666666666667,8,16,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"259","Woodland_58","Woodland_58","common_redstart",1,7.3,0.283333333333333,0,17,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"260","Woodland_58","Woodland_58","chaffinch",1,7.3,12.0833333333333,12,5,7,NA,NA,27,NA,"Overcast, mild",851,"5","Oak, feathermoss",NA,NA,NA,"Rahoy","0851",8.85,1,7
+"262","Woodland_6","Woodland_6","chaffinch",2,26.6,20.9,20,54,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"263","Woodland_6","Woodland_6","spotted_flycatcher",1,4.5,2.68333333333333,2,41,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"264","Woodland_6","Woodland_6","blackcap",1,13.9,9.35,9,21,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"265","Woodland_6","Woodland_6","spotted_flycatcher",2,21.3,7.75,7,45,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"266","Woodland_6","Woodland_6","siskin",1,NA,16.6166666666667,16,37,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"267","Woodland_6","Woodland_6","great_spotted_woodpecker",1,23.7,26.4666666666667,26,28,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"268","Woodland_6","Woodland_6","redstart",1,46.7,28.1166666666667,28,7,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"269","Woodland_6","Woodland_6","great_tit",1,31.3,24.2166666666667,24,13,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"270","Woodland_6","Woodland_6","treecreeper",1,23.2,29.25,29,15,17,NA,NA,63,NA,"Clear, sun, warm, still",748,"5","Oak, brakc3n, bramble, ",NA,90,NA,"Rahoy","0748",7.8,1,17
+"271","Woodland_60","Woodland_60","meadow_pipit",1,27.7,0.966666666666667,0,58,40,NA,NA,102,NA,"Sun, breeze, warm",656,"3","Oak, molinia",NA,164,NA,"Tearnait","0656",6.93333333333333,1,40
+"272","Woodland_60","Woodland_60","skylark",1,145.9,8.91666666666667,8,55,40,NA,NA,102,NA,"Sun, breeze, warm",656,"3","Oak, molinia",NA,164,NA,"Tearnait","0656",6.93333333333333,1,40
+"273","Woodland_60","Woodland_60","whinchat",1,88.2,10.45,10,27,40,NA,NA,102,NA,"Sun, breeze, warm",656,"3","Oak, molinia",NA,164,NA,"Tearnait","0656",6.93333333333333,1,40
+"274","Woodland_60","Woodland_60","meadow_pipit",1,69.4,12.4,12,24,40,NA,NA,102,NA,"Sun, breeze, warm",656,"3","Oak, molinia",NA,164,NA,"Tearnait","0656",6.93333333333333,1,40
+"275","Woodland_60","Woodland_60","skylark",1,83.3,7.65,7,39,40,NA,NA,102,NA,"Sun, breeze, warm",656,"3","Oak, molinia",NA,164,NA,"Tearnait","0656",6.93333333333333,1,40
+"276","Woodland_61","Woodland_61","blackcap",1,17.1,14.6166666666667,14,37,17,NA,NA,62,NA,"Clear, warm, still",656,"5","Oak, tormentiitl ,molinia",NA,35,NA,"Rahoy","0656",6.93333333333333,1,17
+"277","Woodland_61","Woodland_61","tree_pipit",1,20.7,22.3666666666667,22,22,17,NA,NA,62,NA,"Clear, warm, still",656,"5","Oak, tormentiitl ,molinia",NA,35,NA,"Rahoy","0656",6.93333333333333,1,17
+"278","Woodland_61","Woodland_61","spotted_flycatcher",1,21.5,7.95,7,57,17,NA,NA,62,NA,"Clear, warm, still",656,"5","Oak, tormentiitl ,molinia",NA,35,NA,"Rahoy","0656",6.93333333333333,1,17
+"279","Woodland_61","Woodland_61","chaffinch",1,38.6,4.38333333333333,4,23,17,NA,NA,62,NA,"Clear, warm, still",656,"5","Oak, tormentiitl ,molinia",NA,35,NA,"Rahoy","0656",6.93333333333333,1,17
+"280","Woodland_66","Woodland_66","great_spotted_woodpecker",1,45.5,23.5333333333333,23,32,16,NA,NA,57,NA,"Sunny, hot, breeze",1739,"5","Oak, molinia, blaeberry",NA,59,NA,"Rahoy","1739",17.65,1,16
+"281","Woodland_66","Woodland_66","house_sparrow",1,15.7,12.5333333333333,12,32,16,NA,NA,57,NA,"Sunny, hot, breeze",1739,"5","Oak, molinia, blaeberry",NA,59,NA,"Rahoy","1739",17.65,1,16
+"282","Woodland_66","Woodland_66","willow_warbler",1,43.1,8.8,8,48,16,NA,NA,57,NA,"Sunny, hot, breeze",1739,"5","Oak, molinia, blaeberry",NA,59,NA,"Rahoy","1739",17.65,1,16
+"283","Woodland_66","Woodland_66","coal_tit",1,19.3,29.9666666666667,29,58,16,NA,NA,57,NA,"Sunny, hot, breeze",1739,"5","Oak, molinia, blaeberry",NA,59,NA,"Rahoy","1739",17.65,1,16
+"284","Woodland_80","Woodland_80","willow_warbler",1,18.4,26,26,0,4,NA,NA,17,NA,"Sun, light breeze",1150,"5","Oak, blue bell, blaeberry, birch regen",NA,NA,NA,"Claggan","1150",11.8333333333333,1,4
+"286","Woodland_80","Woodland_80","sand_martin",2,NA,0,0,0,4,NA,NA,17,NA,"Sun, light breeze",1150,"5","Oak, blue bell, blaeberry, birch regen",NA,NA,NA,"Claggan","1150",11.8333333333333,1,4
+"287","Woodland_80","Woodland_80","tree_pipit",2,30.1,8,8,0,4,NA,NA,17,NA,"Sun, light breeze",1150,"5","Oak, blue bell, blaeberry, birch regen",NA,NA,NA,"Claggan","1150",11.8333333333333,1,4
+"288","Woodland_80","Woodland_80","siskin",4,22.5,0,0,0,4,NA,NA,17,NA,"Sun, light breeze",1150,"5","Oak, blue bell, blaeberry, birch regen",NA,NA,NA,"Claggan","1150",11.8333333333333,1,4
+"289","Woodland_80","Woodland_80","sand_martin",1,24.9,12,12,0,4,NA,NA,17,NA,"Sun, light breeze",1150,"5","Oak, blue bell, blaeberry, birch regen",NA,NA,NA,"Claggan","1150",11.8333333333333,1,4
+"290","Woodland_80","Woodland_80","tree_pipit",1,16.5,20,20,0,4,NA,NA,17,NA,"Sun, light breeze",1150,"5","Oak, blue bell, blaeberry, birch regen",NA,NA,NA,"Claggan","1150",11.8333333333333,1,4
+"291","Woodland_82","Woodland_82","willow_warbler",1,15.8,2,2,0,4,NA,NA,19,NA,"Cloudy, breezy",1409,"5","Oak, birch, bluebell",NA,NA,NA,"Claggan","1409",14.15,1,4
+"292","Woodland_82","Woodland_82","willow_warbler",2,11,20,20,0,4,NA,NA,19,NA,"Cloudy, breezy",1409,"5","Oak, birch, bluebell",NA,NA,NA,"Claggan","1409",14.15,1,4
+"294","Woodland_83","Woodland_83","blue_tit",1,28.6,1.96666666666667,1,58,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"295","Woodland_83","Woodland_83","chaffinch",1,12.7,0.9,0,54,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"296","Woodland_83","Woodland_83","chaffinch",1,24.7,3.96666666666667,3,58,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"297","Woodland_83","Woodland_83","great_spotted_woodpecker",1,41.7,7.16666666666667,7,10,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"298","Woodland_83","Woodland_83","blue_tit",1,16.1,18.1,18,6,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"299","Woodland_83","Woodland_83","blue_tit",1,24.2,15.4666666666667,15,28,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"300","Woodland_83","Woodland_83","chaffinch",1,18.9,19.8333333333333,19,50,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"302","Woodland_83","Woodland_83","chaffinch",1,26,3.08333333333333,3,5,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"303","Woodland_83","Woodland_83","chaffinch",1,10.9,26.3333333333333,26,20,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"304","Woodland_83","Woodland_83","blue_tit",1,36.4,11.7166666666667,11,43,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"305","Woodland_83","Woodland_83","great_tit",1,18.1,27.05,27,3,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
+"306","Woodland_83","Woodland_83","great_tit",1,18.8,22.5833333333333,22,35,14,NA,NA,42,NA,"Overcast, mild, ",1651,"5","Oak, bracken, feather moss, birch",NA,59,NA,"Claggan","1651",16.85,1,14
